@@ -1,5 +1,7 @@
 #!/bin/sh
 
+cd /data 
+
 while :
 do
 	DATE=$(date)
